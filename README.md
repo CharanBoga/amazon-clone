@@ -1,4 +1,4 @@
-**Amazon Clone**
+### Amazon Clone
 
 This repository contains HTML and CSS code for an Amazon clone website, aiming to replicate the user interface and design of the Amazon website.
 
